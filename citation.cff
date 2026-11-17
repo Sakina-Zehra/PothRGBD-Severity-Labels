@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, alongside the original PothRGBD paper."
+title: "PothRGBD Severity Labels: Human Severity Annotations for the PothRGBD Pothole Dataset"
+authors:
+  - family-names: "Zehra"
+    given-names: "Sakina"
+    affiliation: "Habib University"
+  - family-names: "Aqeel"
+    given-names: "Maria Muhammad"
+    affiliation: "Habib University"
+version: 1.0.0
+date-released: "2026-11-18"
+doi: ""
+repository-code: "https://github.com/Sakina-Zehra/PothRGBD-Severity-Labels.git"
+license: MIT
+references:
+  - type: article
+    title: "An Enhanced YOLOv8 Model for Real-Time and Accurate Pothole Detection and Measurement"
+    authors:
+      - family-names: "Yurdakul"
+        given-names: "Mustafa"
+      - family-names: "Tasdemir"
+        given-names: "Şakir"
+    year: 2025
+    url: "https://doi.org/10.48550/arXiv.2505.04207"
