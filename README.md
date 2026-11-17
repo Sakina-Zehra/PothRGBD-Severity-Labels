@@ -146,6 +146,8 @@ Depth visualizations are provided as supporting information. See `rubric.md` for
 
 The merged labels are consensus estimates, not objective ground truth. Consider the `high_disagreement` flag when selecting data for model training or evaluation. Retaining the raw per-labeller scores is recommended for uncertainty-aware analysis.
 
+Note: All 1,000 images were judged suitable for severity scoring by all four labellers — the X (exclude) option was available but not used in this release, so no images were excluded from the merged labels.
+
 ## License and citation
 
 The severity annotations in this repository are released under the MIT License. The original PothRGBD dataset has its own license and attribution requirements; consult its original release before redistributing or using the source data.
