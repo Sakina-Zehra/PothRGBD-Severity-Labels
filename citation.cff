@@ -10,7 +10,7 @@ authors:
     affiliation: "Habib University"
 version: 1.0.0
 date-released: "2026-11-17"
-doi: ""
+doi: "10.5281/zenodo.24322003"
 repository-code: "https://github.com/Sakina-Zehra/PothRGBD-Severity-Labels.git"
 license: MIT
 references:
